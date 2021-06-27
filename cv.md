@@ -5,8 +5,8 @@ Bishkek,Kyrghyzstan
 justfreestylexd@gmail.com
 
 
-Date of Birth: 09/11/2003                      
-Languages: Russian, English(B2)
+                    
+Languages: Kyrgyz,Russian, English(B2)
 
 > The upgrading is a part of us and upgrading in upgrading is second lvl.
 ## Bootcamps: ##
@@ -50,3 +50,6 @@ Languages: Russian, English(B2)
     She was afraid someone would Caesar!
     </p>
 <!--"Laughing"-->
+
+Portfolio websites
+[https://wonderful-kilby-aeb852.netlify.app](https://wonderful-kilby-aeb852.netlify.app)
